@@ -1,5 +1,5 @@
 # workshop-desain-web-latihan-2
 
-Before use, you have run command
+sebelum digunakan, silahkan running code berikut pada terminal masing-masing
 
 npm run start
